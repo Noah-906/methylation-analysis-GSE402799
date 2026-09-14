@@ -15,7 +15,8 @@ Analysis pipeline for the GSE40279 dataset, covering data download, preprocessin
 │   ├── ...
 │   └── (20 script files)
 └── docs/
-    └── GSEA_parameters_setting.md
+    ├── beta_values_d GSEA_parameters_setting.md
+    └── index.html
 ```
 
 # Pipeline
