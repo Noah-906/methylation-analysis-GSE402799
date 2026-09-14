@@ -3,6 +3,7 @@
 
 
 Analysis pipeline for the GSE40279 dataset, covering data download, preprocessing, normalization, differential methylation analysis and gene set enrichment analysis (GSEA) in relation to age and biological sex.
+> **[View the flowchart](https://noah-906.github.io/methylation-analysis-GSE402799/)**
 
 # Repository structure
 
@@ -14,10 +15,8 @@ Analysis pipeline for the GSE40279 dataset, covering data download, preprocessin
 │   ├── ...
 │   └── (20 script files)
 └── docs/
-    ├── GSEA_parameters_setting.md
-    └── index.html
+    └── GSEA_parameters_setting.md
 ```
-  > **Note:** `index.html` is the flowchart of the pipeline. **[View the flowchart](https://noah-906.github.io/methylation-analysis-GSE402799/)**
 
 # Pipeline
 
